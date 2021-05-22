@@ -12,8 +12,10 @@ namespace Ctec_Materiais.Models
 
         public string Nome { get; set; }
         public string Email { get; set; }
-
+        
         public Material Material { get; set; }
+
+        public int MaterialId { get; set; }
         public ICollection<RegistroRetirada> Retiradas { get; set; } = new List<RegistroRetirada>();
 
         public Usuario()
