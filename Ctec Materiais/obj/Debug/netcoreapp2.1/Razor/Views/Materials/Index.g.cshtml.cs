@@ -66,7 +66,7 @@ using Ctec_Materiais.Models;
             WriteLiteral("\r\n<h2>Início</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(126, 50, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2be70ff08ade4bcdb91a098d516de415", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ff2604698c744618928ca510fc5e48c", async() => {
                 BeginContext(149, 23, true);
                 WriteLiteral("Adicionar novo material");
                 EndContext();
@@ -136,7 +136,7 @@ using Ctec_Materiais.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(765, 63, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "085206e1f5e44f739561eeaa6b377cda", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fb340e8c26214ac58a4b59b27c38f5e4", async() => {
                 BeginContext(818, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -171,7 +171,7 @@ using Ctec_Materiais.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(848, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f177759f80ed443e8330a2d0beedc790", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c6ebbdbf2401419e821264b1780ff502", async() => {
                 BeginContext(904, 8, true);
                 WriteLiteral("Detalhes");
                 EndContext();
@@ -206,7 +206,7 @@ using Ctec_Materiais.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(936, 65, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "985023064f6a49cea6fc39fea1687ed8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49dc7ee337244d1091accd47dcf7b219", async() => {
                 BeginContext(991, 6, true);
                 WriteLiteral("Apagar");
                 EndContext();
