@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Ctec_Materiais.Models;
+using Ctec_Materiais.Models.ViewModels;
 using Ctec_Materiais.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,10 +13,12 @@ namespace Ctec_Materiais.Controllers
     {
 
         private readonly UsuarioService _usuarioService;
+        private readonly MaterialService _materialService;
 
-        public UsuariosController(UsuarioService us)
+        public UsuariosController(UsuarioService us, MaterialService ms)
         {
             _usuarioService = us;
+            _materialService = ms;
         }
 
         public IActionResult Index()
@@ -26,7 +29,14 @@ namespace Ctec_Materiais.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            var materiais = _materialService.FindAll();
+
+            //vm = view model
+            var vm = new UsuarioFormViewModel
+            {
+                Materiais = materiais
+            };
+            return View( vm );
         }
 
         [HttpPost]

@@ -42,6 +42,7 @@ namespace Ctec_Materiais
 
             services.AddScoped<SeedingService>();
             services.AddScoped<UsuarioService>();
+            services.AddScoped<MaterialService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

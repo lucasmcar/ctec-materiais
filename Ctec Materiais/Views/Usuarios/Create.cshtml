@@ -1,4 +1,4 @@
-﻿@model Ctec_Materiais.Models.Usuario
+﻿@model Ctec_Materiais.Models.ViewModels.UsuarioFormViewModel
 
 @{
     ViewData["Title"] = "Criar Usuário";
@@ -11,13 +11,20 @@
         <form asp-action="Create" method="POST">
 
             <div class="form-group">
-                <label asp-for="Nome" class="control-label"></label>
-                <input asp-for="Nome" class="form-control" />
+                <label asp-for="Usuario.Nome" class="control-label"></label>
+                <input asp-for="Usuario.Nome" class="form-control" />
             </div>
             <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
+                <label asp-for="Usuario.Email" class="control-label">Email do usuário</label>
+                <input asp-for="Usuario.Email" class="form-control" />
             </div>
+
+            <div class="form-group">
+                <label asp-for="Usuario.MaterialId" class="control-label">Código do Material</label>
+                <select asp-for="Usuario.MaterialId" asp-items="@(new SelectList(Model.Materiais, "IdMaterial", "Codigo"))" 
+                class="form-control"></select>
+            </div>
+
             <div class="form-group">
                 <button type="submit" class="btn btn-primary">Cadastrar</button>
             </div>
