@@ -1,0 +1,33 @@
+﻿@model Ctec_Materiais.Models.Material
+
+@{
+    ViewData["Title"] = "Apagar materiais";
+}
+
+<h2>Apagar</h2>
+
+<h3>Você tem certeza que deseja apagar este material?</h3>
+<div>
+    <h4>Material</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdMaterial" />
+        <input type="submit" value="Apagar" class="btn btn-danger" /> |
+        <a asp-action="Index">Voltar para lista de materiais</a>
+    </form>
+</div>

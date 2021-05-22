@@ -1,0 +1,78 @@
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorAssemblyInfo.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorAssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.TagHelpers.input.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.TagHelpers.output.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorCoreGenerate.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorTargetAssemblyInfo.cache
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorTargetAssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.dll
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.pdb
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.deps.json
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.runtimeconfig.json
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.dll
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.pdb
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.Views.dll
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.Views.pdb
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.Views.pdb
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csproj.CopyComplete
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Create.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Delete.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Details.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Edit.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Create.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.deps.json
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.runtimeconfig.json
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.runtimeconfig.dev.json
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.dll
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.pdb
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.Views.dll
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\bin\Debug\netcoreapp2.1\Ctec Materiais.Views.pdb
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csprojAssemblyReference.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorAssemblyInfo.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorAssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.TagHelpers.input.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.TagHelpers.output.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorCoreGenerate.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Create.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Delete.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Details.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Edit.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Materials\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Create.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorTargetAssemblyInfo.cache
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.RazorTargetAssemblyInfo.cs
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.Views.pdb
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.dll
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.pdb
+C:\Users\lukas\source\repos\Ctec_Materiais\Ctec Materiais\obj\Debug\netcoreapp2.1\Ctec Materiais.csproj.CopyComplete

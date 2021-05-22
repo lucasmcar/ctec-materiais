@@ -1,0 +1,30 @@
+﻿@model Ctec_Materiais.Models.Material
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h2>Detalhes dos Materiais</h2>
+
+<div>
+    <h4>Material</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IdMaterial">Editar</a> |
+    <a asp-action="Index">Voltar para lista</a>
+</div>
