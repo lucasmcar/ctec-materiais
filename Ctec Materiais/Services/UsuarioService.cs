@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Ctec_Materiais.Models;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace Ctec_Materiais.Services
@@ -23,7 +24,8 @@ namespace Ctec_Materiais.Services
 
         public Usuario FindById(int id)
         {
-            return _context.Usuario.FirstOrDefault(obj => obj.IdUsuario == id);
+            return _context.Usuario.Include(obj => obj.Material)
+                .FirstOrDefault(obj => obj.IdUsuario == id);
         }
         
         public void Insert(Usuario objUser)
